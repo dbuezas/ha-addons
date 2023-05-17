@@ -4,8 +4,6 @@
 
 ## Instructions
 
-Until I make give this the correct structure to be installed in a standard way, the steps are:
-
 1. Get the camera to connect to your access point (with the app or following instructions in https://github.com/intx82/a9-v720)
 2. Reroute \*.naxclow.com to your HA computer IP (e.g using the AdGuard addon and configuring your router to use that as DNS provider)
 3. [![Open your Home Assistant instance and show the Supervisor add-on store.](https://my.home-assistant.io/badges/supervisor_store.svg)](https://my.home-assistant.io/redirect/supervisor_store/)
